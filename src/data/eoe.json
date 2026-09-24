@@ -1,0 +1,3118 @@
+[
+    {
+        "id": "209c591a-4ab2-4e89-9523-a7b766cf4e51",
+        "name": "Ouroboroid",
+        "price": {
+            "usd": "35.28",
+            "usd_foil": "36.26",
+            "usd_etched": null,
+            "eur": "32.98",
+            "eur_foil": "35.44",
+            "tix": "3.88"
+        },
+        "mana_cost": "{2}{G}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Creature",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "120be808-ff3b-4fca-96a1-4db6b9825856",
+        "name": "Quantum Riddler",
+        "price": {
+            "usd": "34.96",
+            "usd_foil": "40.42",
+            "usd_etched": null,
+            "eur": "52.89",
+            "eur_foil": "56.27",
+            "tix": "42.44"
+        },
+        "mana_cost": "{3}{U}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Creature",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "d9482aab-6ddf-48e1-84fa-b13d5ff81e69",
+        "name": "Icetill Explorer",
+        "price": {
+            "usd": "21.50",
+            "usd_foil": "21.40",
+            "usd_etched": null,
+            "eur": "23.75",
+            "eur_foil": "25.28",
+            "tix": "1.78"
+        },
+        "mana_cost": "{2}{G}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "02e8e540-8aa3-4e6a-9a11-c3949cab5f0f",
+        "name": "Tezzeret, Cruel Captain",
+        "price": {
+            "usd": "21.17",
+            "usd_foil": "23.07",
+            "usd_etched": null,
+            "eur": "22.36",
+            "eur_foil": "25.62",
+            "tix": "6.00"
+        },
+        "mana_cost": "{3}",
+        "colours": [],
+        "type": "Legendary Planeswalker",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "7e1fe101-f634-41e5-9aa4-e8d7474535dc",
+        "name": "Exalted Sunborn",
+        "price": {
+            "usd": "19.96",
+            "usd_foil": "18.52",
+            "usd_etched": null,
+            "eur": "15.06",
+            "eur_foil": "16.68",
+            "tix": "0.17"
+        },
+        "mana_cost": "{3}{W}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Creature",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "2fa09104-acbe-4410-b101-2fe6ac28efde",
+        "name": "Evendo, Waking Haven",
+        "price": {
+            "usd": "19.25",
+            "usd_foil": "20.00",
+            "usd_etched": null,
+            "eur": "13.57",
+            "eur_foil": "16.24",
+            "tix": "0.28"
+        },
+        "mana_cost": "",
+        "colours": [],
+        "type": "Land",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "11da39d6-cfa6-498d-91b1-11454cc7e5a3",
+        "name": "Uthros, Titanic Godcore",
+        "price": {
+            "usd": "15.35",
+            "usd_foil": "14.69",
+            "usd_etched": null,
+            "eur": "11.60",
+            "eur_foil": "14.73",
+            "tix": "0.28"
+        },
+        "mana_cost": "",
+        "colours": [],
+        "type": "Land",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "6133355c-3dcf-466a-b771-fe6c44d4fa4d",
+        "name": "Dawnsire, Sunstar Dreadnought",
+        "price": {
+            "usd": "14.36",
+            "usd_foil": "17.07",
+            "usd_etched": null,
+            "eur": "5.28",
+            "eur_foil": "5.41",
+            "tix": "0.09"
+        },
+        "mana_cost": "{5}",
+        "colours": [],
+        "type": "Legendary Artifact",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "8b4e2642-3c87-4708-b9b4-2e7f7359ac7d",
+        "name": "Sacred Foundry",
+        "price": {
+            "usd": "10.72",
+            "usd_foil": "11.66",
+            "usd_etched": null,
+            "eur": "10.16",
+            "eur_foil": "10.83",
+            "tix": "0.15"
+        },
+        "mana_cost": "",
+        "colours": [],
+        "type": "Land",
+        "rarity": "Rare"
+    },
+    {
+        "id": "5b8170dc-6a90-46fc-9989-7575f3d402b5",
+        "name": "Watery Grave",
+        "price": {
+            "usd": "10.10",
+            "usd_foil": "10.69",
+            "usd_etched": null,
+            "eur": "9.84",
+            "eur_foil": "11.43",
+            "tix": "0.06"
+        },
+        "mana_cost": "",
+        "colours": [],
+        "type": "Land",
+        "rarity": "Rare"
+    },
+    {
+        "id": "26008c7d-5dbe-4da2-b475-4dd307e7bc68",
+        "name": "Terrasymbiosis",
+        "price": {
+            "usd": "10.09",
+            "usd_foil": "10.72",
+            "usd_etched": null,
+            "eur": "11.72",
+            "eur_foil": "13.19",
+            "tix": "0.02"
+        },
+        "mana_cost": "{2}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare"
+    },
+    {
+        "id": "3c750d5a-f743-41ff-b5ba-02025ca0bec2",
+        "name": "Breeding Pool",
+        "price": {
+            "usd": "9.78",
+            "usd_foil": "9.70",
+            "usd_etched": null,
+            "eur": "10.37",
+            "eur_foil": "11.38",
+            "tix": "0.02"
+        },
+        "mana_cost": "",
+        "colours": [],
+        "type": "Land",
+        "rarity": "Rare"
+    },
+    {
+        "id": "8c542ea4-98c3-4c2d-9066-205ab7aa697a",
+        "name": "Godless Shrine",
+        "price": {
+            "usd": "8.70",
+            "usd_foil": "9.92",
+            "usd_etched": null,
+            "eur": "8.95",
+            "eur_foil": "9.52",
+            "tix": "0.02"
+        },
+        "mana_cost": "",
+        "colours": [],
+        "type": "Land",
+        "rarity": "Rare"
+    },
+    {
+        "id": "69be21b4-c613-47c6-ba57-f4785861af3e",
+        "name": "Stomping Ground",
+        "price": {
+            "usd": "7.30",
+            "usd_foil": "7.69",
+            "usd_etched": null,
+            "eur": "7.71",
+            "eur_foil": "7.96",
+            "tix": "0.02"
+        },
+        "mana_cost": "",
+        "colours": [],
+        "type": "Land",
+        "rarity": "Rare"
+    },
+    {
+        "id": "b3c1e5e3-4e6b-456a-958c-7a75c38f8183",
+        "name": "Cosmogrand Zenith",
+        "price": {
+            "usd": "6.76",
+            "usd_foil": "7.38",
+            "usd_etched": null,
+            "eur": "7.69",
+            "eur_foil": "7.95",
+            "tix": "0.40"
+        },
+        "mana_cost": "{2}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Creature",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "aefb8c0d-2bc6-4bec-851e-0137b4abfb22",
+        "name": "Susur Secundi, Void Altar",
+        "price": {
+            "usd": "6.44",
+            "usd_foil": "6.17",
+            "usd_etched": null,
+            "eur": "5.09",
+            "eur_foil": "6.24",
+            "tix": "0.50"
+        },
+        "mana_cost": "",
+        "colours": [],
+        "type": "Land",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "c634273a-94b0-4104-9d10-ae522ece1fc7",
+        "name": "Adagia, Windswept Bastion",
+        "price": {
+            "usd": "6.12",
+            "usd_foil": "6.53",
+            "usd_etched": null,
+            "eur": "5.42",
+            "eur_foil": "7.53",
+            "tix": "0.72"
+        },
+        "mana_cost": "",
+        "colours": [],
+        "type": "Land",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "2934c9c8-d23a-462b-83d5-94e88c8663ac",
+        "name": "Famished Worldsire",
+        "price": {
+            "usd": "3.51",
+            "usd_foil": "3.69",
+            "usd_etched": null,
+            "eur": "3.82",
+            "eur_foil": "4.36",
+            "tix": "0.31"
+        },
+        "mana_cost": "{5}{G}{G}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Creature",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "f32302f1-b54f-4489-9d0b-9b771e59da06",
+        "name": "Mightform Harmonizer",
+        "price": {
+            "usd": "3.31",
+            "usd_foil": "3.30",
+            "usd_etched": null,
+            "eur": "2.48",
+            "eur_foil": "3.20",
+            "tix": "0.02"
+        },
+        "mana_cost": "{2}{G}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "1bb90ab9-43b9-4991-806a-0afc4d8caf5f",
+        "name": "The Eternity Elevator",
+        "price": {
+            "usd": "3.29",
+            "usd_foil": "3.26",
+            "usd_etched": null,
+            "eur": "1.36",
+            "eur_foil": "1.96",
+            "tix": "0.02"
+        },
+        "mana_cost": "{5}",
+        "colours": [],
+        "type": "Legendary Artifact",
+        "rarity": "Rare"
+    },
+    {
+        "id": "a16a6555-2e3a-4587-aacd-0307d696b26c",
+        "name": "Consult the Star Charts",
+        "price": {
+            "usd": "3.19",
+            "usd_foil": "4.28",
+            "usd_etched": null,
+            "eur": "5.98",
+            "eur_foil": "7.48",
+            "tix": "2.41"
+        },
+        "mana_cost": "{1}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Rare"
+    },
+    {
+        "id": "a451a459-18e0-4c53-a171-3e9da534ebf1",
+        "name": "The Endstone",
+        "price": {
+            "usd": "3.10",
+            "usd_foil": "3.22",
+            "usd_etched": null,
+            "eur": "2.93",
+            "eur_foil": "4.31",
+            "tix": "0.39"
+        },
+        "mana_cost": "{7}",
+        "colours": [],
+        "type": "Legendary Artifact",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "6f7c63ae-5df3-410f-8643-b8c69133ca9d",
+        "name": "Haliya, Guided by Light",
+        "price": {
+            "usd": "3.02",
+            "usd_foil": "3.57",
+            "usd_etched": null,
+            "eur": "3.65",
+            "eur_foil": "4.28",
+            "tix": "0.02"
+        },
+        "mana_cost": "{2}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Legendary Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "e99d6fc0-dcf2-4b25-81c2-02c230a36246",
+        "name": "Sothera, the Supervoid",
+        "price": {
+            "usd": "2.85",
+            "usd_foil": "3.80",
+            "usd_etched": null,
+            "eur": "2.57",
+            "eur_foil": "3.56",
+            "tix": "0.17"
+        },
+        "mana_cost": "{2}{B}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Legendary Enchantment",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "fc779971-24e2-46a8-86be-16f0b244a3d2",
+        "name": "Devastating Onslaught",
+        "price": {
+            "usd": "2.84",
+            "usd_foil": "2.99",
+            "usd_etched": null,
+            "eur": "1.96",
+            "eur_foil": "2.26",
+            "tix": "0.21"
+        },
+        "mana_cost": "{X}{X}{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "d2948913-817b-4715-92d5-ed3cde347be7",
+        "name": "Pain for All",
+        "price": {
+            "usd": "2.60",
+            "usd_foil": "1.94",
+            "usd_etched": null,
+            "eur": "0.59",
+            "eur_foil": "0.91",
+            "tix": "0.02"
+        },
+        "mana_cost": "{2}{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare"
+    },
+    {
+        "id": "c72d85e9-a0bc-4f73-8d73-c58843577f4e",
+        "name": "Frenzied Baloth",
+        "price": {
+            "usd": "2.53",
+            "usd_foil": "2.41",
+            "usd_etched": null,
+            "eur": "2.40",
+            "eur_foil": "3.08",
+            "tix": "0.02"
+        },
+        "mana_cost": "{G}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "deca0b2a-e7f3-444a-883d-7c41dd62c9cc",
+        "name": "Starfield Vocalist",
+        "price": {
+            "usd": "2.50",
+            "usd_foil": "2.41",
+            "usd_etched": null,
+            "eur": "1.41",
+            "eur_foil": "2.04",
+            "tix": "0.02"
+        },
+        "mana_cost": "{3}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "35372b69-6086-44e0-9f7c-681e362e5142",
+        "name": "Anticausal Vestige",
+        "price": {
+            "usd": "2.11",
+            "usd_foil": "2.35",
+            "usd_etched": null,
+            "eur": "1.75",
+            "eur_foil": "2.01",
+            "tix": "0.02"
+        },
+        "mana_cost": "{6}",
+        "colours": [],
+        "type": "Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "cddb48cc-8eb1-47ce-90f0-7aad1e93e2c4",
+        "name": "Weftstalker Ardent",
+        "price": {
+            "usd": "2.03",
+            "usd_foil": "2.94",
+            "usd_etched": null,
+            "eur": "1.27",
+            "eur_foil": "1.72",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "a058f1a6-318c-4bba-981e-ace079ada806",
+        "name": "Weapons Manufacturing",
+        "price": {
+            "usd": "1.94",
+            "usd_foil": "2.64",
+            "usd_etched": null,
+            "eur": "2.73",
+            "eur_foil": "3.44",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare"
+    },
+    {
+        "id": "0d2c95bd-79af-4a23-b265-62cc0b164e3e",
+        "name": "Loading Zone",
+        "price": {
+            "usd": "1.84",
+            "usd_foil": "2.72",
+            "usd_etched": null,
+            "eur": "0.87",
+            "eur_foil": "1.13",
+            "tix": "0.02"
+        },
+        "mana_cost": "{3}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare"
+    },
+    {
+        "id": "a34012e3-ec7a-4713-a2c2-f8efff49e364",
+        "name": "Singularity Rupture",
+        "price": {
+            "usd": "1.77",
+            "usd_foil": "1.94",
+            "usd_etched": null,
+            "eur": "0.48",
+            "eur_foil": "0.70",
+            "tix": "0.02"
+        },
+        "mana_cost": "{3}{U}{B}{B}",
+        "colours": [
+            "B",
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare"
+    },
+    {
+        "id": "85caf659-7b43-462e-a342-34703d46eb57",
+        "name": "Thrumming Hivepool",
+        "price": {
+            "usd": "1.70",
+            "usd_foil": "1.56",
+            "usd_etched": null,
+            "eur": "0.93",
+            "eur_foil": "1.41",
+            "tix": "0.02"
+        },
+        "mana_cost": "{6}",
+        "colours": [],
+        "type": "Artifact",
+        "rarity": "Rare"
+    },
+    {
+        "id": "bed64207-9193-4770-8f8f-e3203289d5a6",
+        "name": "Sami, Wildcat Captain",
+        "price": {
+            "usd": "1.64",
+            "usd_foil": "1.58",
+            "usd_etched": null,
+            "eur": "1.20",
+            "eur_foil": "1.57",
+            "tix": "0.06"
+        },
+        "mana_cost": "{4}{R}{W}",
+        "colours": [
+            "R",
+            "W"
+        ],
+        "type": "Legendary Creature",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "dec91ec3-42d3-4922-96f0-dbb50a576084",
+        "name": "The Seriema",
+        "price": {
+            "usd": "1.63",
+            "usd_foil": "1.78",
+            "usd_etched": null,
+            "eur": "0.72",
+            "eur_foil": "0.90",
+            "tix": "0.02"
+        },
+        "mana_cost": "{1}{W}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Legendary Artifact",
+        "rarity": "Rare"
+    },
+    {
+        "id": "27d1a010-5790-4b35-9fdc-0e366eed021d",
+        "name": "Starwinder",
+        "price": {
+            "usd": "1.53",
+            "usd_foil": "1.74",
+            "usd_etched": null,
+            "eur": "1.00",
+            "eur_foil": "1.18",
+            "tix": "0.02"
+        },
+        "mana_cost": "{5}{U}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "3c922347-f05f-40a4-bbee-6bc02a1e0de5",
+        "name": "Pinnacle Emissary",
+        "price": {
+            "usd": "1.52",
+            "usd_foil": "2.20",
+            "usd_etched": null,
+            "eur": "2.47",
+            "eur_foil": "3.32",
+            "tix": "0.74"
+        },
+        "mana_cost": "{1}{U}{R}",
+        "colours": [
+            "R",
+            "U"
+        ],
+        "type": "Artifact Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "60f3ca25-9dcc-4781-bf7b-ab6736d8db29",
+        "name": "Kavaron, Memorial World",
+        "price": {
+            "usd": "1.49",
+            "usd_foil": "1.74",
+            "usd_etched": null,
+            "eur": "1.31",
+            "eur_foil": "1.60",
+            "tix": "0.14"
+        },
+        "mana_cost": "",
+        "colours": [],
+        "type": "Land",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "44607ed3-9523-40ac-9f61-0edd011cf762",
+        "name": "Tannuk, Steadfast Second",
+        "price": {
+            "usd": "1.46",
+            "usd_foil": "2.13",
+            "usd_etched": null,
+            "eur": "1.99",
+            "eur_foil": "2.66",
+            "tix": "0.06"
+        },
+        "mana_cost": "{2}{R}{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Legendary Creature",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "dcde5f27-e2f0-4d2a-afa3-f300896ec4b1",
+        "name": "Archenemy's Charm",
+        "price": {
+            "usd": "0.91",
+            "usd_foil": "1.24",
+            "usd_etched": null,
+            "eur": "0.97",
+            "eur_foil": "1.52",
+            "tix": "0.02"
+        },
+        "mana_cost": "{B}{B}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Rare"
+    },
+    {
+        "id": "5541cdd2-84a6-4667-83eb-fffbe5b3cd3d",
+        "name": "Extinguisher Battleship",
+        "price": {
+            "usd": "0.73",
+            "usd_foil": "0.99",
+            "usd_etched": null,
+            "eur": "0.56",
+            "eur_foil": "0.79",
+            "tix": "0.02"
+        },
+        "mana_cost": "{8}",
+        "colours": [],
+        "type": "Artifact",
+        "rarity": "Rare"
+    },
+    {
+        "id": "9d298847-2d02-4593-b4d3-c5b722edac1e",
+        "name": "Seam Rip",
+        "price": {
+            "usd": "0.64",
+            "usd_foil": "1.35",
+            "usd_etched": null,
+            "eur": "0.85",
+            "eur_foil": "1.23",
+            "tix": "0.05"
+        },
+        "mana_cost": "{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "52498b7b-0389-4e7b-b29f-7ac86aab9229",
+        "name": "Tannuk, Memorial Ensign",
+        "price": {
+            "usd": "0.58",
+            "usd_foil": "0.88",
+            "usd_etched": null,
+            "eur": "0.73",
+            "eur_foil": "1.28",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{R}{G}",
+        "colours": [
+            "G",
+            "R"
+        ],
+        "type": "Legendary Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "f5360880-2849-45d6-b1aa-08c7e01083af",
+        "name": "The Dominion Bracelet",
+        "price": {
+            "usd": "0.58",
+            "usd_foil": "0.68",
+            "usd_etched": null,
+            "eur": "0.68",
+            "eur_foil": "0.97",
+            "tix": "0.06"
+        },
+        "mana_cost": "{2}",
+        "colours": [],
+        "type": "Legendary Artifact",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "424af0d0-398c-4d78-9ad5-2171bf1bcbd1",
+        "name": "Nova Hellkite",
+        "price": {
+            "usd": "0.55",
+            "usd_foil": "0.67",
+            "usd_etched": null,
+            "eur": "0.76",
+            "eur_foil": "1.22",
+            "tix": "0.02"
+        },
+        "mana_cost": "{3}{R}{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "bbcc1d84-9772-475d-924a-75bb54c9bc20",
+        "name": "Umbral Collar Zealot",
+        "price": {
+            "usd": "0.47",
+            "usd_foil": "1.19",
+            "usd_etched": null,
+            "eur": "0.59",
+            "eur_foil": "1.12",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "3a5ed010-cb17-45df-b169-ebc807dae534",
+        "name": "All-Fates Scroll",
+        "price": {
+            "usd": "0.43",
+            "usd_foil": "0.37",
+            "usd_etched": null,
+            "eur": "0.14",
+            "eur_foil": "0.22",
+            "tix": "0.03"
+        },
+        "mana_cost": "{3}",
+        "colours": [],
+        "type": "Artifact",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "4bb8f2ef-4398-4a07-9130-5005356a3b4a",
+        "name": "Bygone Colossus",
+        "price": {
+            "usd": "0.41",
+            "usd_foil": "0.37",
+            "usd_etched": null,
+            "eur": "0.28",
+            "eur_foil": "0.31",
+            "tix": "0.03"
+        },
+        "mana_cost": "{9}",
+        "colours": [],
+        "type": "Artifact Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "f2a56007-5bca-4edf-9cc4-5f77a273636c",
+        "name": "Moonlit Meditation",
+        "price": {
+            "usd": "0.41",
+            "usd_foil": "0.54",
+            "usd_etched": null,
+            "eur": "0.35",
+            "eur_foil": "0.48",
+            "tix": "0.02"
+        },
+        "mana_cost": "{2}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare"
+    },
+    {
+        "id": "c69ed7c7-1f49-4299-b3e6-75150258ac59",
+        "name": "Elegy Acolyte",
+        "price": {
+            "usd": "0.40",
+            "usd_foil": "0.37",
+            "usd_etched": null,
+            "eur": "0.47",
+            "eur_foil": "1.06",
+            "tix": "0.02"
+        },
+        "mana_cost": "{2}{B}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "edb8dc2a-ddce-48fa-b57e-0e57c87c6671",
+        "name": "Space-Time Anomaly",
+        "price": {
+            "usd": "0.39",
+            "usd_foil": "0.39",
+            "usd_etched": null,
+            "eur": "0.24",
+            "eur_foil": "0.42",
+            "tix": "0.02"
+        },
+        "mana_cost": "{2}{W}{U}",
+        "colours": [
+            "U",
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare"
+    },
+    {
+        "id": "5e07d3c6-60a5-44d1-a926-6414be85bd50",
+        "name": "Cosmogoyf",
+        "price": {
+            "usd": "0.38",
+            "usd_foil": "0.43",
+            "usd_etched": null,
+            "eur": "0.36",
+            "eur_foil": "1.27",
+            "tix": "0.02"
+        },
+        "mana_cost": "{B}{G}",
+        "colours": [
+            "B",
+            "G"
+        ],
+        "type": "Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "cc59796b-9025-44b6-a188-cf6684ebffb9",
+        "name": "Entropic Battlecruiser",
+        "price": {
+            "usd": "0.38",
+            "usd_foil": "0.42",
+            "usd_etched": null,
+            "eur": "0.22",
+            "eur_foil": "0.40",
+            "tix": "0.02"
+        },
+        "mana_cost": "{3}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Artifact",
+        "rarity": "Rare"
+    },
+    {
+        "id": "33063d26-37f7-4e35-8da2-5770dfabdc41",
+        "name": "Alpharael, Stonechosen",
+        "price": {
+            "usd": "0.37",
+            "usd_foil": "0.55",
+            "usd_etched": null,
+            "eur": "0.54",
+            "eur_foil": "0.73",
+            "tix": "0.06"
+        },
+        "mana_cost": "{3}{B}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Legendary Creature",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "1226e575-aa78-4c68-be1d-6e5c2dc6315b",
+        "name": "Starfield Shepherd",
+        "price": {
+            "usd": "0.37",
+            "usd_foil": "0.42",
+            "usd_etched": null,
+            "eur": "0.22",
+            "eur_foil": "0.85",
+            "tix": "0.03"
+        },
+        "mana_cost": "{3}{W}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "127c221f-94e7-4a0e-a7a6-79ef399862d3",
+        "name": "Biotech Specialist",
+        "price": {
+            "usd": "0.36",
+            "usd_foil": "0.53",
+            "usd_etched": null,
+            "eur": "0.43",
+            "eur_foil": "0.60",
+            "tix": "0.02"
+        },
+        "mana_cost": "{R}{G}",
+        "colours": [
+            "G",
+            "R"
+        ],
+        "type": "Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "517d1b00-7ec4-489a-ac52-657da24a6379",
+        "name": "Scour for Scrap",
+        "price": {
+            "usd": "0.36",
+            "usd_foil": "1.28",
+            "usd_etched": null,
+            "eur": "0.30",
+            "eur_foil": "0.53",
+            "tix": "0.03"
+        },
+        "mana_cost": "{3}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "a997ff9f-045a-44a2-983d-f36414cef1ab",
+        "name": "Secluded Starforge",
+        "price": {
+            "usd": "0.36",
+            "usd_foil": "0.75",
+            "usd_etched": null,
+            "eur": "0.32",
+            "eur_foil": "0.43",
+            "tix": "0.02"
+        },
+        "mana_cost": "",
+        "colours": [],
+        "type": "Land",
+        "rarity": "Rare"
+    },
+    {
+        "id": "49554198-549b-4066-86ce-77a03fda0a2f",
+        "name": "Syr Vondam, Sunstar Exemplar",
+        "price": {
+            "usd": "0.36",
+            "usd_foil": "0.38",
+            "usd_etched": null,
+            "eur": "0.63",
+            "eur_foil": "0.64",
+            "tix": "0.02"
+        },
+        "mana_cost": "{W}{B}",
+        "colours": [
+            "B",
+            "W"
+        ],
+        "type": "Legendary Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "d0b4e925-1d59-41a1-bc06-9982695d778f",
+        "name": "Honor",
+        "price": {
+            "usd": "0.35",
+            "usd_foil": "0.32",
+            "usd_etched": null,
+            "eur": "0.18",
+            "eur_foil": "0.31",
+            "tix": "0.03"
+        },
+        "mana_cost": "{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "011374c3-f69d-4573-8c32-5bd0fe083d6a",
+        "name": "Ragost, Deft Gastronaut",
+        "price": {
+            "usd": "0.35",
+            "usd_foil": "0.41",
+            "usd_etched": null,
+            "eur": "0.27",
+            "eur_foil": "0.44",
+            "tix": "0.02"
+        },
+        "mana_cost": "{R}{W}",
+        "colours": [
+            "R",
+            "W"
+        ],
+        "type": "Legendary Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "4fb36405-cd28-432f-b0a4-e74ff8be928d",
+        "name": "Astelli Reclaimer",
+        "price": {
+            "usd": "0.34",
+            "usd_foil": "0.35",
+            "usd_etched": null,
+            "eur": "0.20",
+            "eur_foil": "0.58",
+            "tix": "0.02"
+        },
+        "mana_cost": "{3}{W}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "08b1d019-65ab-4dea-9076-041fd6338a35",
+        "name": "Broodguard Elite",
+        "price": {
+            "usd": "0.34",
+            "usd_foil": "0.33",
+            "usd_etched": null,
+            "eur": "0.14",
+            "eur_foil": "0.17",
+            "tix": "0.03"
+        },
+        "mana_cost": "{X}{G}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "635245e9-c27f-4a51-a6f1-bae62e696542",
+        "name": "Lightstall Inquisitor",
+        "price": {
+            "usd": "0.34",
+            "usd_foil": "0.36",
+            "usd_etched": null,
+            "eur": "0.34",
+            "eur_foil": "0.65",
+            "tix": "0.03"
+        },
+        "mana_cost": "{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "1abc176f-2ccf-4371-b4b5-030dd99ff7fc",
+        "name": "Seedship Broodtender",
+        "price": {
+            "usd": "0.34",
+            "usd_foil": "0.28",
+            "usd_etched": null,
+            "eur": "0.19",
+            "eur_foil": "0.26",
+            "tix": "0.03"
+        },
+        "mana_cost": "{B}{G}",
+        "colours": [
+            "B",
+            "G"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "33410410-72f2-49c4-9e63-a72202cd075a",
+        "name": "Timeline Culler",
+        "price": {
+            "usd": "0.34",
+            "usd_foil": "0.41",
+            "usd_etched": null,
+            "eur": "0.56",
+            "eur_foil": "0.77",
+            "tix": "0.03"
+        },
+        "mana_cost": "{B}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "c0838f25-2193-4305-b73a-bf0c0bb4981a",
+        "name": "Xu-Ifit, Osteoharmonist",
+        "price": {
+            "usd": "0.34",
+            "usd_foil": "0.40",
+            "usd_etched": null,
+            "eur": "0.30",
+            "eur_foil": "0.72",
+            "tix": "0.02"
+        },
+        "mana_cost": "{1}{B}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Legendary Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "64fb2981-86ed-478a-89cd-c6bb078a5bc7",
+        "name": "Eumidian Terrabotanist",
+        "price": {
+            "usd": "0.33",
+            "usd_foil": "0.33",
+            "usd_etched": null,
+            "eur": "0.17",
+            "eur_foil": "0.25",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "5688894a-bbec-476b-ae2e-94000be258d0",
+        "name": "Infinite Guideline Station",
+        "price": {
+            "usd": "0.33",
+            "usd_foil": "0.36",
+            "usd_etched": null,
+            "eur": "0.18",
+            "eur_foil": "0.32",
+            "tix": "0.02"
+        },
+        "mana_cost": "{W}{U}{B}{R}{G}",
+        "colours": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "type": "Legendary Artifact",
+        "rarity": "Rare"
+    },
+    {
+        "id": "837d710a-652f-4c60-a52d-d786231160a4",
+        "name": "Requiem Monolith",
+        "price": {
+            "usd": "0.33",
+            "usd_foil": "0.40",
+            "usd_etched": null,
+            "eur": "0.31",
+            "eur_foil": "0.37",
+            "tix": "0.02"
+        },
+        "mana_cost": "{2}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Artifact",
+        "rarity": "Rare"
+    },
+    {
+        "id": "beb97e7b-0ae7-4b08-9ceb-6a7f825bcd49",
+        "name": "Susurian Voidborn",
+        "price": {
+            "usd": "0.33",
+            "usd_foil": "0.34",
+            "usd_etched": null,
+            "eur": "0.27",
+            "eur_foil": "0.39",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "59cf9f4d-54cd-4cda-9726-65e16100ab46",
+        "name": "Zero Point Ballad",
+        "price": {
+            "usd": "0.33",
+            "usd_foil": "0.41",
+            "usd_etched": null,
+            "eur": "0.21",
+            "eur_foil": "0.54",
+            "tix": "0.02"
+        },
+        "mana_cost": "{X}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare"
+    },
+    {
+        "id": "994ca692-7138-4dcb-bf46-5da530f86036",
+        "name": "Dyadrine, Synthesis Amalgam",
+        "price": {
+            "usd": "0.32",
+            "usd_foil": "0.35",
+            "usd_etched": null,
+            "eur": "0.28",
+            "eur_foil": "0.30",
+            "tix": "0.02"
+        },
+        "mana_cost": "{X}{G}{W}",
+        "colours": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Artifact Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "53c08af4-b975-4d9d-baba-73e6727f2778",
+        "name": "Meltstrider's Resolve",
+        "price": {
+            "usd": "0.32",
+            "usd_foil": "0.28",
+            "usd_etched": null,
+            "eur": "0.15",
+            "eur_foil": "0.30",
+            "tix": "0.03"
+        },
+        "mana_cost": "{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "dc0cb4b6-cc20-49ea-84b2-2f3af3b0a19e",
+        "name": "Sledge-Class Seedship",
+        "price": {
+            "usd": "0.32",
+            "usd_foil": "0.36",
+            "usd_etched": null,
+            "eur": "0.24",
+            "eur_foil": "0.33",
+            "tix": "0.02"
+        },
+        "mana_cost": "{2}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Artifact",
+        "rarity": "Rare"
+    },
+    {
+        "id": "d3291c51-e963-4970-813d-9a06a47aa71e",
+        "name": "Glacier Godmaw",
+        "price": {
+            "usd": "0.31",
+            "usd_foil": "0.37",
+            "usd_etched": null,
+            "eur": "0.19",
+            "eur_foil": "0.35",
+            "tix": "0.03"
+        },
+        "mana_cost": "{5}{G}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "42d5034f-18f0-4d57-9840-6be52c286247",
+        "name": "Mutinous Massacre",
+        "price": {
+            "usd": "0.31",
+            "usd_foil": "0.41",
+            "usd_etched": null,
+            "eur": "0.25",
+            "eur_foil": "0.43",
+            "tix": "0.02"
+        },
+        "mana_cost": "{3}{B}{B}{R}{R}",
+        "colours": [
+            "B",
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare"
+    },
+    {
+        "id": "7ce58765-d2f4-4fbf-8635-580c9400ff2e",
+        "name": "Rust Harvester",
+        "price": {
+            "usd": "0.31",
+            "usd_foil": "0.29",
+            "usd_etched": null,
+            "eur": "0.11",
+            "eur_foil": "0.32",
+            "tix": "0.02"
+        },
+        "mana_cost": "{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Artifact Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "39d48ddd-4529-4284-9da3-5272ad362b9b",
+        "name": "Weftwalking",
+        "price": {
+            "usd": "0.31",
+            "usd_foil": "0.38",
+            "usd_etched": null,
+            "eur": "0.28",
+            "eur_foil": "0.42",
+            "tix": "0.21"
+        },
+        "mana_cost": "{4}{U}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Mythic"
+    },
+    {
+        "id": "8d5cd0be-4337-4aba-a4f6-5adab7735a73",
+        "name": "Zookeeper Mechan",
+        "price": {
+            "usd": "0.31",
+            "usd_foil": "0.33",
+            "usd_etched": null,
+            "eur": "0.11",
+            "eur_foil": "0.18",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Artifact Creature",
+        "rarity": "Common"
+    },
+    {
+        "id": "ce503869-8130-4afe-9691-4e90376b4bc4",
+        "name": "Beyond the Quiet",
+        "price": {
+            "usd": "0.30",
+            "usd_foil": "0.37",
+            "usd_etched": null,
+            "eur": "0.20",
+            "eur_foil": "0.38",
+            "tix": "0.02"
+        },
+        "mana_cost": "{3}{W}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare"
+    },
+    {
+        "id": "800ee479-c1dc-4dd0-9b98-436c78997958",
+        "name": "Bioengineered Future",
+        "price": {
+            "usd": "0.30",
+            "usd_foil": "0.45",
+            "usd_etched": null,
+            "eur": "0.25",
+            "eur_foil": "0.38",
+            "tix": "0.02"
+        },
+        "mana_cost": "{1}{G}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare"
+    },
+    {
+        "id": "cfee64ef-d22d-4024-bc65-59cbd1731d1c",
+        "name": "Full Bore",
+        "price": {
+            "usd": "0.30",
+            "usd_foil": "0.33",
+            "usd_etched": null,
+            "eur": "0.15",
+            "eur_foil": "0.18",
+            "tix": "0.03"
+        },
+        "mana_cost": "{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "0cc59b5a-65fa-47cc-8ac7-b7c3f533a782",
+        "name": "Lumen-Class Frigate",
+        "price": {
+            "usd": "0.30",
+            "usd_foil": "0.43",
+            "usd_etched": null,
+            "eur": "0.19",
+            "eur_foil": "0.42",
+            "tix": "0.02"
+        },
+        "mana_cost": "{1}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Artifact",
+        "rarity": "Rare"
+    },
+    {
+        "id": "b1f40c4c-a955-4d9c-8225-251fa4159124",
+        "name": "Pinnacle Starcage",
+        "price": {
+            "usd": "0.30",
+            "usd_foil": "0.36",
+            "usd_etched": null,
+            "eur": "0.14",
+            "eur_foil": "0.54",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{W}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Artifact",
+        "rarity": "Rare"
+    },
+    {
+        "id": "396bca07-82ba-49b7-b79e-7784b3a06d48",
+        "name": "Sunset Saboteur",
+        "price": {
+            "usd": "0.30",
+            "usd_foil": "0.35",
+            "usd_etched": null,
+            "eur": "0.31",
+            "eur_foil": "0.38",
+            "tix": "0.02"
+        },
+        "mana_cost": "{1}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "4feeebea-aa55-4599-ab5a-4e41a54d0dfd",
+        "name": "Annul",
+        "price": {
+            "usd": "0.29",
+            "usd_foil": "0.37",
+            "usd_etched": null,
+            "eur": "0.22",
+            "eur_foil": "0.25",
+            "tix": "0.03"
+        },
+        "mana_cost": "{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "fc98b2d4-86fc-4c47-b2a7-1f3c89463607",
+        "name": "Emergency Eject",
+        "price": {
+            "usd": "0.29",
+            "usd_foil": "0.33",
+            "usd_etched": null,
+            "eur": "0.16",
+            "eur_foil": "0.31",
+            "tix": "0.04"
+        },
+        "mana_cost": "{2}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "82add0a0-e402-4b31-b101-81c0bf332015",
+        "name": "Mm'menon, the Right Hand",
+        "price": {
+            "usd": "0.29",
+            "usd_foil": "0.37",
+            "usd_etched": null,
+            "eur": "0.31",
+            "eur_foil": "0.55",
+            "tix": "0.02"
+        },
+        "mana_cost": "{3}{U}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Legendary Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "78c8bc60-1378-4028-8ab1-3286e459bffb",
+        "name": "Tragic Trajectory",
+        "price": {
+            "usd": "0.29",
+            "usd_foil": "0.29",
+            "usd_etched": null,
+            "eur": "0.22",
+            "eur_foil": "0.27",
+            "tix": "0.04"
+        },
+        "mana_cost": "{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "474c067f-eb24-4ae8-b4c0-f6f8e24cdb2a",
+        "name": "Melded Moxite",
+        "price": {
+            "usd": "0.28",
+            "usd_foil": "0.37",
+            "usd_etched": null,
+            "eur": "0.24",
+            "eur_foil": "0.70",
+            "tix": "0.04"
+        },
+        "mana_cost": "{1}{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Artifact",
+        "rarity": "Common"
+    },
+    {
+        "id": "df61aa0c-effc-4d57-be19-876a82c41d33",
+        "name": "Meltstrider Eulogist",
+        "price": {
+            "usd": "0.28",
+            "usd_foil": "0.33",
+            "usd_etched": null,
+            "eur": "0.18",
+            "eur_foil": "0.27",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "a26064bb-c568-4ed6-86db-3aab69b050db",
+        "name": "Nutrient Block",
+        "price": {
+            "usd": "0.28",
+            "usd_foil": "0.39",
+            "usd_etched": null,
+            "eur": "0.20",
+            "eur_foil": "0.19",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}",
+        "colours": [],
+        "type": "Artifact",
+        "rarity": "Common"
+    },
+    {
+        "id": "ebf3a6dd-a447-46f9-8b10-091ac8cbaa18",
+        "name": "Scout for Survivors",
+        "price": {
+            "usd": "0.28",
+            "usd_foil": "0.27",
+            "usd_etched": null,
+            "eur": "0.16",
+            "eur_foil": "0.24",
+            "tix": "0.04"
+        },
+        "mana_cost": "{2}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "9b4278ea-6cd8-45ad-b024-daf3dedd29e0",
+        "name": "Survey Mechan",
+        "price": {
+            "usd": "0.28",
+            "usd_foil": "0.30",
+            "usd_etched": null,
+            "eur": "0.11",
+            "eur_foil": "0.16",
+            "tix": "0.03"
+        },
+        "mana_cost": "{4}",
+        "colours": [],
+        "type": "Artifact Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "e96c986c-684c-4546-a9c9-b6b903bda101",
+        "name": "Virus Beetle",
+        "price": {
+            "usd": "0.28",
+            "usd_foil": "0.31",
+            "usd_etched": null,
+            "eur": "0.04",
+            "eur_foil": "0.15",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Artifact Creature",
+        "rarity": "Common"
+    },
+    {
+        "id": "0efe5342-42b7-4f49-b4b4-d77055508c4d",
+        "name": "Dauntless Scrapbot",
+        "price": {
+            "usd": "0.27",
+            "usd_foil": "0.32",
+            "usd_etched": null,
+            "eur": "0.16",
+            "eur_foil": "0.31",
+            "tix": "0.03"
+        },
+        "mana_cost": "{3}",
+        "colours": [],
+        "type": "Artifact Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "a1fe1d39-42c8-41d0-8bf0-46973e4b07d4",
+        "name": "Mechan Navigator",
+        "price": {
+            "usd": "0.27",
+            "usd_foil": "0.17",
+            "usd_etched": null,
+            "eur": "0.13",
+            "eur_foil": "0.22",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Artifact Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "a70d0877-1a1e-436b-bf8c-0ff6df9efc6a",
+        "name": "Pull Through the Weft",
+        "price": {
+            "usd": "0.27",
+            "usd_foil": "0.29",
+            "usd_etched": null,
+            "eur": "0.06",
+            "eur_foil": "0.19",
+            "tix": "0.03"
+        },
+        "mana_cost": "{3}{G}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "fba6332c-acba-43f9-877c-ca6c5328aae9",
+        "name": "Synthesizer Labship",
+        "price": {
+            "usd": "0.27",
+            "usd_foil": "0.33",
+            "usd_etched": null,
+            "eur": "0.23",
+            "eur_foil": "0.26",
+            "tix": "0.02"
+        },
+        "mana_cost": "{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Artifact",
+        "rarity": "Rare"
+    },
+    {
+        "id": "4120fcfc-3547-4774-a15d-b9cccac04e76",
+        "name": "Virulent Silencer",
+        "price": {
+            "usd": "0.27",
+            "usd_foil": "0.37",
+            "usd_etched": null,
+            "eur": "0.12",
+            "eur_foil": "0.16",
+            "tix": "0.03"
+        },
+        "mana_cost": "{3}",
+        "colours": [],
+        "type": "Artifact Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "6d73a4a8-5d52-4c12-a96a-45cd202bcc62",
+        "name": "Biosynthic Burst",
+        "price": {
+            "usd": "0.26",
+            "usd_foil": "0.30",
+            "usd_etched": null,
+            "eur": "0.12",
+            "eur_foil": "0.16",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Common"
+    },
+    {
+        "id": "7bfb33b6-e2bf-498f-8c58-ae21a840cf75",
+        "name": "Cryogen Relic",
+        "price": {
+            "usd": "0.26",
+            "usd_foil": "0.80",
+            "usd_etched": null,
+            "eur": "0.49",
+            "eur_foil": "0.86",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Artifact",
+        "rarity": "Common"
+    },
+    {
+        "id": "011bd7d8-6d60-482a-91b7-d3f0aad13b71",
+        "name": "Eusocial Engineering",
+        "price": {
+            "usd": "0.26",
+            "usd_foil": "0.28",
+            "usd_etched": null,
+            "eur": "0.18",
+            "eur_foil": "0.37",
+            "tix": "0.03"
+        },
+        "mana_cost": "{3}{G}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "683d6eba-7f98-4105-b318-7f2290012f32",
+        "name": "Haliya, Ascendant Cadet",
+        "price": {
+            "usd": "0.26",
+            "usd_foil": "0.30",
+            "usd_etched": null,
+            "eur": "0.13",
+            "eur_foil": "0.12",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}{G}{W}{W}",
+        "colours": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "baeff907-017e-4dee-aae1-19dfaab309de",
+        "name": "Scrounge for Eternity",
+        "price": {
+            "usd": "0.26",
+            "usd_foil": "0.27",
+            "usd_etched": null,
+            "eur": "0.09",
+            "eur_foil": "0.12",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "2fc7946d-37b0-4dc8-9daa-8d2204d8e4d2",
+        "name": "Seedship Agrarian",
+        "price": {
+            "usd": "0.26",
+            "usd_foil": "0.25",
+            "usd_etched": null,
+            "eur": "0.13",
+            "eur_foil": "0.22",
+            "tix": "0.03"
+        },
+        "mana_cost": "{3}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "7cbbab6c-43ae-4e50-97ce-532a3316591a",
+        "name": "Tapestry Warden",
+        "price": {
+            "usd": "0.26",
+            "usd_foil": "0.26",
+            "usd_etched": null,
+            "eur": "0.12",
+            "eur_foil": "0.15",
+            "tix": "0.03"
+        },
+        "mana_cost": "{3}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Artifact Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "9e5957f4-1cae-4989-8b40-27fc6e2fcf5e",
+        "name": "Warmaker Gunship",
+        "price": {
+            "usd": "0.26",
+            "usd_foil": "0.33",
+            "usd_etched": null,
+            "eur": "0.17",
+            "eur_foil": "0.21",
+            "tix": "0.02"
+        },
+        "mana_cost": "{2}{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Artifact",
+        "rarity": "Rare"
+    },
+    {
+        "id": "7389fe88-f6ff-4497-a037-9ca283fb89e3",
+        "name": "Chorale of the Void",
+        "price": {
+            "usd": "0.25",
+            "usd_foil": "0.33",
+            "usd_etched": null,
+            "eur": "0.12",
+            "eur_foil": "0.21",
+            "tix": "0.02"
+        },
+        "mana_cost": "{3}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare"
+    },
+    {
+        "id": "8ef269a0-1cb9-4901-81e6-43db3ae3756c",
+        "name": "Chrome Companion",
+        "price": {
+            "usd": "0.25",
+            "usd_foil": "0.36",
+            "usd_etched": null,
+            "eur": "0.05",
+            "eur_foil": "0.11",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}",
+        "colours": [],
+        "type": "Artifact Creature",
+        "rarity": "Common"
+    },
+    {
+        "id": "f8931132-391f-4f16-b480-0a245ab2ec21",
+        "name": "Dual-Sun Technique",
+        "price": {
+            "usd": "0.25",
+            "usd_foil": "0.29",
+            "usd_etched": null,
+            "eur": "0.16",
+            "eur_foil": "0.21",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "ce7a8eec-a029-4ee1-b2d6-405d903d4640",
+        "name": "Gene Pollinator",
+        "price": {
+            "usd": "0.25",
+            "usd_foil": "0.31",
+            "usd_etched": null,
+            "eur": "0.15",
+            "eur_foil": "0.33",
+            "tix": "0.03"
+        },
+        "mana_cost": "{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Artifact Creature",
+        "rarity": "Common"
+    },
+    {
+        "id": "0b934241-4d6b-4b9c-99f1-c49cb387cf56",
+        "name": "Hardlight Containment",
+        "price": {
+            "usd": "0.25",
+            "usd_foil": "0.35",
+            "usd_etched": null,
+            "eur": "0.16",
+            "eur_foil": "0.22",
+            "tix": "0.03"
+        },
+        "mana_cost": "{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare"
+    },
+    {
+        "id": "817b5b18-beb5-48c8-aa45-0515ff9ca5da",
+        "name": "Hullcarver",
+        "price": {
+            "usd": "0.25",
+            "usd_foil": "0.30",
+            "usd_etched": null,
+            "eur": "0.04",
+            "eur_foil": "0.09",
+            "tix": "0.03"
+        },
+        "mana_cost": "{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Artifact Creature",
+        "rarity": "Common"
+    },
+    {
+        "id": "769f7d13-a312-4d79-8639-6ae248452448",
+        "name": "Illvoi Galeblade",
+        "price": {
+            "usd": "0.25",
+            "usd_foil": "0.32",
+            "usd_etched": null,
+            "eur": "0.11",
+            "eur_foil": "0.15",
+            "tix": "0.04"
+        },
+        "mana_cost": "{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Creature",
+        "rarity": "Common"
+    },
+    {
+        "id": "198211af-f413-4e9b-9baf-4b4fcb81eadc",
+        "name": "Interceptor Mechan",
+        "price": {
+            "usd": "0.25",
+            "usd_foil": "0.30",
+            "usd_etched": null,
+            "eur": "0.07",
+            "eur_foil": "0.21",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}{B}{R}",
+        "colours": [
+            "B",
+            "R"
+        ],
+        "type": "Artifact Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "d6083f43-58dc-46fc-aeff-347b1080417b",
+        "name": "Larval Scoutlander",
+        "price": {
+            "usd": "0.25",
+            "usd_foil": "0.32",
+            "usd_etched": null,
+            "eur": "0.15",
+            "eur_foil": "0.26",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Artifact",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "bf784de8-5ae2-4c07-92bb-a5b7f593b773",
+        "name": "Pinnacle Kill-Ship",
+        "price": {
+            "usd": "0.25",
+            "usd_foil": "0.34",
+            "usd_etched": null,
+            "eur": "0.20",
+            "eur_foil": "0.33",
+            "tix": "0.03"
+        },
+        "mana_cost": "{7}",
+        "colours": [],
+        "type": "Artifact",
+        "rarity": "Common"
+    },
+    {
+        "id": "ca468b86-f31a-4cd7-a574-eb984bc4bc3e",
+        "name": "Steelswarm Operator",
+        "price": {
+            "usd": "0.25",
+            "usd_foil": "0.30",
+            "usd_etched": null,
+            "eur": "0.14",
+            "eur_foil": "0.14",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Artifact Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "e23cc5fd-afe4-480c-8858-ed80a082584e",
+        "name": "Uthros Psionicist",
+        "price": {
+            "usd": "0.25",
+            "usd_foil": "0.29",
+            "usd_etched": null,
+            "eur": "0.18",
+            "eur_foil": "0.32",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "cbb1b46f-72e0-4c2f-8012-74529bd29a0d",
+        "name": "Faller's Faithful",
+        "price": {
+            "usd": "0.24",
+            "usd_foil": "0.27",
+            "usd_etched": null,
+            "eur": "0.07",
+            "eur_foil": "0.17",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "3fd46726-095e-4eb2-a804-eeeb988eee1d",
+        "name": "Mechan Assembler",
+        "price": {
+            "usd": "0.24",
+            "usd_foil": "0.30",
+            "usd_etched": null,
+            "eur": "0.11",
+            "eur_foil": "0.17",
+            "tix": "0.03"
+        },
+        "mana_cost": "{4}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Artifact Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "7b62b1e2-9e43-4a66-a647-7e5de2871f2a",
+        "name": "Cryoshatter",
+        "price": {
+            "usd": "0.23",
+            "usd_foil": "0.26",
+            "usd_etched": null,
+            "eur": "0.16",
+            "eur_foil": "0.19",
+            "tix": "0.04"
+        },
+        "mana_cost": "{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Common"
+    },
+    {
+        "id": "cecb4936-14ca-49f9-b209-6519cab54b30",
+        "name": "Decode Transmissions",
+        "price": {
+            "usd": "0.23",
+            "usd_foil": "0.27",
+            "usd_etched": null,
+            "eur": "0.04",
+            "eur_foil": "0.12",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common"
+    },
+    {
+        "id": "77fdbf32-b5f4-4346-846d-d8e0e53e6e53",
+        "name": "Desculpting Blast",
+        "price": {
+            "usd": "0.23",
+            "usd_foil": "0.28",
+            "usd_etched": null,
+            "eur": "0.11",
+            "eur_foil": "0.22",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "05a6ab03-f0b9-4738-a5f9-5d95bb22de75",
+        "name": "Honored Knight-Captain",
+        "price": {
+            "usd": "0.23",
+            "usd_foil": "0.31",
+            "usd_etched": null,
+            "eur": "0.11",
+            "eur_foil": "0.07",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "1da2a740-e4ff-4661-ba57-39b15c58e26e",
+        "name": "Kavaron Harrier",
+        "price": {
+            "usd": "0.23",
+            "usd_foil": "0.29",
+            "usd_etched": null,
+            "eur": "0.11",
+            "eur_foil": "0.24",
+            "tix": "0.03"
+        },
+        "mana_cost": "{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Artifact Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "f3666a08-d449-496f-969a-bf21d4afbd77",
+        "name": "Perigee Beckoner",
+        "price": {
+            "usd": "0.23",
+            "usd_foil": "0.28",
+            "usd_etched": null,
+            "eur": "0.08",
+            "eur_foil": "0.09",
+            "tix": "0.03"
+        },
+        "mana_cost": "{4}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Creature",
+        "rarity": "Common"
+    },
+    {
+        "id": "4b146c78-403f-48c8-941d-41114498bb89",
+        "name": "Possibility Technician",
+        "price": {
+            "usd": "0.23",
+            "usd_foil": "0.30",
+            "usd_etched": null,
+            "eur": "0.09",
+            "eur_foil": "0.20",
+            "tix": "0.02"
+        },
+        "mana_cost": "{2}{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "3bbdba38-2b99-4226-98e3-6d2580345d6d",
+        "name": "Reroute Systems",
+        "price": {
+            "usd": "0.23",
+            "usd_foil": "0.26",
+            "usd_etched": null,
+            "eur": "0.08",
+            "eur_foil": "0.20",
+            "tix": "0.03"
+        },
+        "mana_cost": "{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "6f717a3f-c6db-4e8d-8b62-6361ab33d000",
+        "name": "Beamsaw Prospector",
+        "price": {
+            "usd": "0.22",
+            "usd_foil": "0.24",
+            "usd_etched": null,
+            "eur": "0.05",
+            "eur_foil": "0.05",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Creature",
+        "rarity": "Common"
+    },
+    {
+        "id": "247670d2-a7cd-4ed7-9c77-704c7962b815",
+        "name": "Command Bridge",
+        "price": {
+            "usd": "0.22",
+            "usd_foil": "0.34",
+            "usd_etched": null,
+            "eur": "0.10",
+            "eur_foil": "0.14",
+            "tix": "0.03"
+        },
+        "mana_cost": "",
+        "colours": [],
+        "type": "Land",
+        "rarity": "Common"
+    },
+    {
+        "id": "5a22024c-2c0f-4487-98d1-ee89cf3dba89",
+        "name": "Lithobraking",
+        "price": {
+            "usd": "0.22",
+            "usd_foil": "0.29",
+            "usd_etched": null,
+            "eur": "0.06",
+            "eur_foil": "0.19",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "3eeae8c3-7939-4c79-92f0-fbdb9c1b71d3",
+        "name": "Nanoform Sentinel",
+        "price": {
+            "usd": "0.22",
+            "usd_foil": "0.20",
+            "usd_etched": null,
+            "eur": "0.11",
+            "eur_foil": "0.14",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Artifact Creature",
+        "rarity": "Common"
+    },
+    {
+        "id": "91d7a4c2-1a4b-4e9f-b543-225b6906752f",
+        "name": "Ruinous Rampage",
+        "price": {
+            "usd": "0.22",
+            "usd_foil": "0.30",
+            "usd_etched": null,
+            "eur": "0.08",
+            "eur_foil": "0.28",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{R}{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "2a34c71b-8d3c-435b-9cf8-4902f997d10d",
+        "name": "Systems Override",
+        "price": {
+            "usd": "0.22",
+            "usd_foil": "0.23",
+            "usd_etched": null,
+            "eur": "0.05",
+            "eur_foil": "0.23",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "2cb0984f-dc8b-4bb3-a4fd-8d6d4ae20198",
+        "name": "Wedgelight Rammer",
+        "price": {
+            "usd": "0.22",
+            "usd_foil": "0.24",
+            "usd_etched": null,
+            "eur": "0.08",
+            "eur_foil": "0.17",
+            "tix": "0.03"
+        },
+        "mana_cost": "{3}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Artifact",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "82ae4f7b-8122-4af6-8079-888eabf1a11e",
+        "name": "All-Fates Stalker",
+        "price": {
+            "usd": "0.21",
+            "usd_foil": "0.28",
+            "usd_etched": null,
+            "eur": "0.14",
+            "eur_foil": "0.18",
+            "tix": "0.03"
+        },
+        "mana_cost": "{3}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "1beb7566-305e-4091-bdc4-cf4c789ac05a",
+        "name": "Drix Fatemaker",
+        "price": {
+            "usd": "0.21",
+            "usd_foil": "0.28",
+            "usd_etched": null,
+            "eur": "0.10",
+            "eur_foil": "0.07",
+            "tix": "0.03"
+        },
+        "mana_cost": "{3}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Creature",
+        "rarity": "Common"
+    },
+    {
+        "id": "153265b4-0ca4-4245-9226-dd1a083ec91c",
+        "name": "Dubious Delicacy",
+        "price": {
+            "usd": "0.21",
+            "usd_foil": "0.29",
+            "usd_etched": null,
+            "eur": "0.11",
+            "eur_foil": "0.08",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Artifact",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "b52ba87f-3ac7-4f32-901c-d089df979f94",
+        "name": "Emissary Escort",
+        "price": {
+            "usd": "0.21",
+            "usd_foil": "0.34",
+            "usd_etched": null,
+            "eur": "0.18",
+            "eur_foil": "0.33",
+            "tix": "0.02"
+        },
+        "mana_cost": "{1}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Artifact Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "e94b130d-3547-43c5-a319-5ebc571c2e2d",
+        "name": "Fell Gravship",
+        "price": {
+            "usd": "0.21",
+            "usd_foil": "0.24",
+            "usd_etched": null,
+            "eur": "0.04",
+            "eur_foil": "0.24",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Artifact",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "40f0ecf7-f49e-46ff-aa5b-9ff5361b72c5",
+        "name": "Genemorph Imago",
+        "price": {
+            "usd": "0.21",
+            "usd_foil": "0.36",
+            "usd_etched": null,
+            "eur": "0.19",
+            "eur_foil": "0.23",
+            "tix": "0.02"
+        },
+        "mana_cost": "{G}{U}",
+        "colours": [
+            "G",
+            "U"
+        ],
+        "type": "Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "83719626-3ff8-4566-9911-88212e753c69",
+        "name": "Sunstar Chaplain",
+        "price": {
+            "usd": "0.21",
+            "usd_foil": "0.28",
+            "usd_etched": null,
+            "eur": "0.09",
+            "eur_foil": "0.20",
+            "tix": "0.02"
+        },
+        "mana_cost": "{1}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Creature",
+        "rarity": "Rare"
+    },
+    {
+        "id": "5f60b09d-9814-4a36-a57d-59b0e04c1c2f",
+        "name": "Sunstar Lightsmith",
+        "price": {
+            "usd": "0.21",
+            "usd_foil": "0.26",
+            "usd_etched": null,
+            "eur": "0.10",
+            "eur_foil": "0.16",
+            "tix": "0.03"
+        },
+        "mana_cost": "{3}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "13fe3358-fd68-4245-a2ad-aa9200cf4655",
+        "name": "Terrapact Intimidator",
+        "price": {
+            "usd": "0.21",
+            "usd_foil": "0.22",
+            "usd_etched": null,
+            "eur": "0.09",
+            "eur_foil": "0.24",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "d96f1c41-3d11-48a8-b962-db46a2d054de",
+        "name": "Cut Propulsion",
+        "price": {
+            "usd": "0.20",
+            "usd_foil": "0.23",
+            "usd_etched": null,
+            "eur": "0.13",
+            "eur_foil": "0.32",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "c5f7d2fe-628b-4493-8281-0e5f91ce5d61",
+        "name": "Divert Disaster",
+        "price": {
+            "usd": "0.20",
+            "usd_foil": "0.33",
+            "usd_etched": null,
+            "eur": "0.08",
+            "eur_foil": "0.21",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common"
+    },
+    {
+        "id": "cfa6c57f-a193-48cc-9764-d8348548a111",
+        "name": "Gravkill",
+        "price": {
+            "usd": "0.20",
+            "usd_foil": "0.27",
+            "usd_etched": null,
+            "eur": "0.02",
+            "eur_foil": "0.11",
+            "tix": "0.03"
+        },
+        "mana_cost": "{3}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Common"
+    },
+    {
+        "id": "c14137a4-2d44-444c-ad50-e2edf9380571",
+        "name": "Hemosymbic Mite",
+        "price": {
+            "usd": "0.20",
+            "usd_foil": "0.25",
+            "usd_etched": null,
+            "eur": "0.08",
+            "eur_foil": "0.18",
+            "tix": "0.03"
+        },
+        "mana_cost": "{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "ac80cf18-0707-4358-bdd4-0c2b90d0a1d9",
+        "name": "Hylderblade",
+        "price": {
+            "usd": "0.20",
+            "usd_foil": "0.24",
+            "usd_etched": null,
+            "eur": "0.09",
+            "eur_foil": "0.15",
+            "tix": "0.03"
+        },
+        "mana_cost": "{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Artifact",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "6860556a-6c34-4c41-89ea-f0bc495a159c",
+        "name": "Lightless Evangel",
+        "price": {
+            "usd": "0.20",
+            "usd_foil": "0.26",
+            "usd_etched": null,
+            "eur": "0.09",
+            "eur_foil": "0.12",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "8d989cdc-cbd7-4b71-9589-59618597ac8a",
+        "name": "Pulsar Squadron Ace",
+        "price": {
+            "usd": "0.20",
+            "usd_foil": "0.21",
+            "usd_etched": null,
+            "eur": "0.08",
+            "eur_foil": "0.11",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "ea954205-5ff5-493b-bf30-6212042c2bc9",
+        "name": "Syr Vondam, the Lucent",
+        "price": {
+            "usd": "0.20",
+            "usd_foil": "0.31",
+            "usd_etched": null,
+            "eur": "0.13",
+            "eur_foil": "0.28",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}{W}{B}{B}",
+        "colours": [
+            "B",
+            "W"
+        ],
+        "type": "Legendary Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "1f93887f-35c5-472f-83d0-54227b3bd1d2",
+        "name": "Uthros Scanship",
+        "price": {
+            "usd": "0.20",
+            "usd_foil": "0.32",
+            "usd_etched": null,
+            "eur": "0.12",
+            "eur_foil": "0.12",
+            "tix": "0.03"
+        },
+        "mana_cost": "{3}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Artifact",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "3554f0c7-ea73-43e9-a061-bbb8ef6abce1",
+        "name": "Atomic Microsizer",
+        "price": {
+            "usd": "0.19",
+            "usd_foil": "0.22",
+            "usd_etched": null,
+            "eur": "0.04",
+            "eur_foil": "0.11",
+            "tix": "0.03"
+        },
+        "mana_cost": "{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Artifact",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "5a041722-9483-469f-9c17-7f0253b0db50",
+        "name": "Dawnstrike Vanguard",
+        "price": {
+            "usd": "0.19",
+            "usd_foil": "0.29",
+            "usd_etched": null,
+            "eur": "0.08",
+            "eur_foil": "0.10",
+            "tix": "0.03"
+        },
+        "mana_cost": "{5}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "ea713f35-6442-4388-8839-2714374fb4b6",
+        "name": "Debris Field Crusher",
+        "price": {
+            "usd": "0.19",
+            "usd_foil": "0.26",
+            "usd_etched": null,
+            "eur": "0.06",
+            "eur_foil": "0.11",
+            "tix": "0.03"
+        },
+        "mana_cost": "{4}{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Artifact",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "efb3d961-543c-4404-b4ed-1cb28ee411b3",
+        "name": "Illvoi Light Jammer",
+        "price": {
+            "usd": "0.19",
+            "usd_foil": "0.20",
+            "usd_etched": null,
+            "eur": "0.09",
+            "eur_foil": "0.22",
+            "tix": "0.04"
+        },
+        "mana_cost": "{1}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Artifact",
+        "rarity": "Common"
+    },
+    {
+        "id": "a14ecd13-325a-4555-b1dd-d0d0d0826031",
+        "name": "Memorial Vault",
+        "price": {
+            "usd": "0.19",
+            "usd_foil": "0.25",
+            "usd_etched": null,
+            "eur": "0.08",
+            "eur_foil": "0.20",
+            "tix": "0.02"
+        },
+        "mana_cost": "{3}{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Artifact",
+        "rarity": "Rare"
+    },
+    {
+        "id": "d060d95f-f33a-4fc0-b002-c394d4cd82ce",
+        "name": "Seedship Impact",
+        "price": {
+            "usd": "0.19",
+            "usd_foil": "0.30",
+            "usd_etched": null,
+            "eur": "0.13",
+            "eur_foil": "0.20",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "1e571246-aadc-4d1f-a284-9a529e150fe0",
+        "name": "Starfighter Pilot",
+        "price": {
+            "usd": "0.19",
+            "usd_foil": "0.22",
+            "usd_etched": null,
+            "eur": "0.03",
+            "eur_foil": "0.08",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Creature",
+        "rarity": "Common"
+    },
+    {
+        "id": "6119c016-01b2-44f3-9550-6988324c1d1f",
+        "name": "Voidforged Titan",
+        "price": {
+            "usd": "0.19",
+            "usd_foil": "0.25",
+            "usd_etched": null,
+            "eur": "0.08",
+            "eur_foil": "0.10",
+            "tix": "0.03"
+        },
+        "mana_cost": "{4}{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Artifact Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "6723b891-6013-4ec6-b439-2233d270dc48",
+        "name": "Codecracker Hound",
+        "price": {
+            "usd": "0.18",
+            "usd_foil": "0.21",
+            "usd_etched": null,
+            "eur": "0.07",
+            "eur_foil": "0.13",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "90741ec9-6893-42d4-b510-8664666094e3",
+        "name": "Edge Rover",
+        "price": {
+            "usd": "0.18",
+            "usd_foil": "0.28",
+            "usd_etched": null,
+            "eur": "0.17",
+            "eur_foil": "0.26",
+            "tix": "0.03"
+        },
+        "mana_cost": "{G}",
+        "colours": [
+            "G"
+        ],
+        "type": "Artifact Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "a9ddfcbc-0f84-4315-aaa3-ca54ff64d7de",
+        "name": "Focus Fire",
+        "price": {
+            "usd": "0.18",
+            "usd_foil": "0.16",
+            "usd_etched": null,
+            "eur": "0.05",
+            "eur_foil": "0.06",
+            "tix": "0.03"
+        },
+        "mana_cost": "{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common"
+    },
+    {
+        "id": "5bbce9fb-401f-4e78-acd5-9d3b506687fd",
+        "name": "Galvanizing Sawship",
+        "price": {
+            "usd": "0.18",
+            "usd_foil": "0.28",
+            "usd_etched": null,
+            "eur": "0.05",
+            "eur_foil": "0.10",
+            "tix": "0.03"
+        },
+        "mana_cost": "{5}{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Artifact",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "b68010e2-7810-43cb-a52e-e73b1834e54e",
+        "name": "Invasive Maneuvers",
+        "price": {
+            "usd": "0.18",
+            "usd_foil": "0.26",
+            "usd_etched": null,
+            "eur": "0.03",
+            "eur_foil": "0.09",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{R}",
+        "colours": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "0f2d12fc-38a0-42e6-9caa-7c18bfcf0011",
+        "name": "Mental Modulation",
+        "price": {
+            "usd": "0.18",
+            "usd_foil": "0.28",
+            "usd_etched": null,
+            "eur": "0.13",
+            "eur_foil": "0.09",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{U}",
+        "colours": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common"
+    },
+    {
+        "id": "5546c044-5826-48c3-9d28-866f3c3c5f2c",
+        "name": "Mm'menon, Uthros Exile",
+        "price": {
+            "usd": "0.18",
+            "usd_foil": "0.33",
+            "usd_etched": null,
+            "eur": "0.18",
+            "eur_foil": "0.25",
+            "tix": "0.03"
+        },
+        "mana_cost": "{1}{U}{R}",
+        "colours": [
+            "R",
+            "U"
+        ],
+        "type": "Legendary Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "acc503e2-5c3a-4200-beb0-7d193d6c869e",
+        "name": "Monoist Sentry",
+        "price": {
+            "usd": "0.18",
+            "usd_foil": "0.30",
+            "usd_etched": null,
+            "eur": "0.06",
+            "eur_foil": "0.22",
+            "tix": "0.03"
+        },
+        "mana_cost": "{B}",
+        "colours": [
+            "B"
+        ],
+        "type": "Artifact Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "c08c7bf9-a2ed-45c6-8b48-15122d9d9e37",
+        "name": "Rayblade Trooper",
+        "price": {
+            "usd": "0.18",
+            "usd_foil": "0.22",
+            "usd_etched": null,
+            "eur": "0.07",
+            "eur_foil": "0.14",
+            "tix": "0.03"
+        },
+        "mana_cost": "{2}{W}",
+        "colours": [
+            "W"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "ba9f6d16-ee3e-4fbb-b78a-6292188eb61f",
+        "name": "Station Monitor",
+        "price": {
+            "usd": "0.18",
+            "usd_foil": "0.26",
+            "usd_etched": null,
+            "eur": "0.12",
+            "eur_foil": "0.18",
+            "tix": "0.03"
+        },
+        "mana_cost": "{W}{U}",
+        "colours": [
+            "U",
+            "W"
+        ],
+        "type": "Creature",
+        "rarity": "Uncommon"
+    }
+]

@@ -14,7 +14,7 @@ dist-ssr
 scripts
 
 # Developer-maintained data files (too large to track in git)
-src/data/*
+# src/data/*
 !src/data/.gitkeep
 
 # Editor directories and files
